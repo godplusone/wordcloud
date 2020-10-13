@@ -29,7 +29,7 @@ def get_words(txt):
     # wc.to_file('e:\\26.png')
 
 if __name__ == '__main__':
-    f = open('nips2020paperlist.txt', 'r')
+    f = open('Accepted Papers.txt', 'r')
     get_words(f.readlines())
 
 
