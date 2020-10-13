@@ -1,5 +1,5 @@
 ﻿Continuous Surface Embeddings
-Natalia Neverova (Facebook AI Research)  David Novotny (Facebook AI Research)  Marc Szafraniec (Facebook AI Research)  Vasil Khalidov (Facebook AI Research)  Patrick Labatut (Facebook AI Research)  Andrea Vedaldi (University of Oxford / Facebook AI Research)
+Natalia Neverova (Facebook AI Research) David Novotny (Facebook AI Research)  Marc Szafraniec (Facebook AI Research)  Vasil Khalidov (Facebook AI Research)  Patrick Labatut (Facebook AI Research)  Andrea Vedaldi (University of Oxford / Facebook AI Research)
 Improving model calibration with accuracy versus uncertainty optimization
 Ranganath Krishnan (Intel Labs)  Omesh Tickoo (Intel)
 Few-shot Image Generation via Self-Adaptation
