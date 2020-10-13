@@ -95,7 +95,6 @@
     
       <p><b>DVERGE: Diversifying Vulnerabilities for Enhanced Robust Generation of Ensembles</b><br><i>Huanrui Yang (Duke University) · Jingyang Zhang (Duke University) · Hongliang Dong (Duke University) · Nathan Inkawhich (Duke University) · Andrew Gardner (Radiance Technologies) · Andrew Touchet (Radiance Technologies) · Wesley Wilkes (Radiance Technologies) · Heath Berry (Radiance Technologies) · Hai Li (Duke University)</i></p>
     
-    
       <p><b>CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations</b><br><i>Davis Rempe (Stanford University) · Tolga Birdal (Technical University of Munich) · Yongheng Zhao (University of Padova) · Zan Gojcic (ETH Zürich) · Srinath Sridhar (Stanford University) · Leonidas J Guibas (stanford.edu)</i></p>
     
       <p><b>Uncertainty-Aware Learning for Zero-Shot Semantic Segmentation</b><br><i>Ping Hu (Boston University) · Stan Sclaroff (Boston University) · Kate Saenko (Boston University &amp; MIT-IBM Watson AI Lab, IBM Research)</i></p>
