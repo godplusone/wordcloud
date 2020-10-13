@@ -12,12 +12,10 @@ import pdb
 
 def get_words(txt):
 
-    # list = nltk.cut(txt)
-    # c = Counter()
-    # str=re.sub(txt[1])
+    pdb.set_trace()
     print(nltk.word_tokenize(txt[0]))
 
-    pdb.set_trace()
+    
     for x in list:
         if len(x) > 1 and x != '\r\n':
             c[x] += 1
