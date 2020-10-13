@@ -1,3 +1,4 @@
+     
       <p><b>Continuous Surface Embeddings</b><br><i>Natalia Neverova (Facebook AI Research) · David Novotny (Facebook AI Research) · Marc Szafraniec (Facebook AI Research) · Vasil Khalidov (Facebook AI Research) · Patrick Labatut (Facebook AI Research) · Andrea Vedaldi (University of Oxford / Facebook AI Research)</i></p>
     
       <p><b>Improving model calibration with accuracy versus uncertainty optimization</b><br><i>Ranganath Krishnan (Intel Labs) · Omesh Tickoo (Intel)</i></p>
@@ -60,7 +61,7 @@
     
       <p><b>On the equivalence of molecular graph convolution and molecular wave function with poor basis set</b><br><i>Masashi Tsubaki (National Institute of Advanced Industrial Science and Technology (AIST)) · Teruyasu Mizoguchi (University of Tokyo)</i></p>
     
-      <p><b>Generative 3D Part Assembly via Dynamic Graph Learning</b><br><i>佳磊 黄 (Peking University) · Guanqi Zhan (Peking University) · Qingnan Fan (Stanford University) · Kaichun Mo (Stanford University) · Lin Shao (Stanford University) · Baoquan Chen (Shandong University) · Leonidas J Guibas (stanford.edu) · Hao Dong (Peking University)</i></p>
+      <p><b>Generative 3D Part Assembly via Dynamic Graph Learning</b><br><i>jialei huang(Peking University) · Guanqi Zhan (Peking University) · Qingnan Fan (Stanford University) · Kaichun Mo (Stanford University) · Lin Shao (Stanford University) · Baoquan Chen (Shandong University) · Leonidas J Guibas (stanford.edu) · Hao Dong (Peking University)</i></p>
     
       <p><b>Prophet Attention: Predicting Attention with Future Attention for Improved Image Captioning</b><br><i>Fenglin Liu (Peking University) · Xuancheng Ren (Peking University) · Xian Wu (Tencent Medical AI Lab) · Shen Ge (Tencent Medical AI Lab) · Wei Fan (Tencent) · Yuexian Zou (Peking University) · Xu Sun (Peking University)</i></p>
     
@@ -164,7 +165,7 @@
     
       <p><b>LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-resolution and Beyond</b><br><i>Wenbo Li (Chinese University of Hong Kong) · Kun Zhou (Shenzhen SmartMore Technology Co., Ltd.) · Lu Qi (The Chinese University of Hong Kong) · Nianjuan Jiang (Shenzhen SmartMore Technology Co., Ltd.) · Jiangbo Lu (Shenzhen SmartMore Technology Co., Ltd.) · Jiaya Jia (CUHK)</i></p>
     
-      <p><b>Unfolding the Alternating Optimization for Blind Super Resolution</b><br><i>zhengxiong luo (中国科学院自动化所) · Yan Huang (CRIPAC, CASIA) · Shang Li (CASIA) · Liang Wang (NLPR, China) · Tieniu Tan (Chinese Academy of Sciences)</i></p>
+      <p><b>Unfolding the Alternating Optimization for Blind Super Resolution</b><br><i>zhengxiong luo (Chinese Academy of Sciences) · Yan Huang (CRIPAC, CASIA) · Shang Li (CASIA) · Liang Wang (NLPR, China) · Tieniu Tan (Chinese Academy of Sciences)</i></p>
     
       <p><b>Challenging SATNet and its Ability to Solve the Symbol Grounding Problem</b><br><i>Oscar Chang (Columbia University) · Lampros Flokas (Columbia University) · Hod Lipson (Columbia University) · Michael Spranger (Sony)</i></p>
     
@@ -1984,7 +1985,7 @@
     
       <p><b>Fourier Sparse Leverage Scores and Approximate Kernel Learning</b><br><i>Tamas Erdelyi (Texas A&amp;M University) · Cameron Musco (Microsoft Research) · Christopher Musco (New York University)</i></p>
     
-      <p><b>Movement Pruning: Adaptive Sparsity by Fine-Tuning</b><br><i>Victor Sanh (Hugging Face 🤗) · Thomas Wolf (Hugging Face) · Alexander Rush (Cornell University)</i></p>
+      <p><b>Movement Pruning: Adaptive Sparsity by Fine-Tuning</b><br><i>Victor Sanh (Hugging Face) · Thomas Wolf (Hugging Face) · Alexander Rush (Cornell University)</i></p>
     
       <p><b>Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes</b><br><i>Ayoub El Hanchi (McGill University) · David Stephens (McGill University)</i></p>
     
