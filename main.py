@@ -31,7 +31,7 @@ def get_words(txt):
 
 if __name__ == '__main__':
     #打开需要分词的文本
-    with codecs.open('nips2020paperlist.txt', 'r') as f:
+    with open('nips2020paperlist.txt', 'r') as f:
         txt = f.readlines()
     get_words(txt)
 
