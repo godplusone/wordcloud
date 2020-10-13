@@ -29,7 +29,7 @@ def get_words(txt):
     # wc.to_file('e:\\26.png')
 
 if __name__ == '__main__':
-    f = open('Accepted Papers.txt', 'r')
+    f = open('Accepted Papers.txt', 'r', 'utf8', 'ignore')
     get_words(f.readlines())
 
 
