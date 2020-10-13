@@ -1,5 +1,9 @@
 
-import jieba
+# import jieba
+
+import nltk
+import re
+
 from collections import Counter
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
@@ -8,9 +12,12 @@ import pdb
 
 def get_words(txt):
 
-    list = jieba.cut(txt)
-    c = Counter()
+    # list = nltk.cut(txt)
+    # c = Counter()
+    str=re.sub(txt[1])
+    print(nltk.word_tokenize(str))
 
+    pdb.set_trace()
     for x in list:
         if len(x) > 1 and x != '\r\n':
             c[x] += 1
