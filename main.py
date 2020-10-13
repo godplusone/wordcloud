@@ -14,8 +14,8 @@ def get_words(txt):
 
     # list = nltk.cut(txt)
     # c = Counter()
-    str=re.sub(txt[1])
-    print(nltk.word_tokenize(str))
+    # str=re.sub(txt[1])
+    print(nltk.word_tokenize(txt[1]))
 
     pdb.set_trace()
     for x in list:
