@@ -16,7 +16,7 @@ def get_words(txt):
             c[x] += 1
 
     #打开一个文本将统计好的词频存放进去
-    with open('bb.txt', 'w') as fw:
+    with open('bb.txt', 'w', 'gbk') as fw:
         for (k, v) in c.most_common():
             fw.write(k + ' ' + str(v) + '\n')
         fw.close()
@@ -31,7 +31,7 @@ def get_words(txt):
 
 if __name__ == '__main__':
     #打开需要分词的文本
-    with codecs.open('nips2020paperlist.txt', 'r') as f:
+    with codecs.open('nips2020paperlist.txt', 'r', 'gbk') as f:
         txt = f.read()
     get_words(txt)
 
