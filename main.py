@@ -33,7 +33,7 @@ def get_words(txt):
 if __name__ == '__main__':
 	f = open('nips2020paperlist.txt', 'r', encoding='utf-8')
     # f = open('Accepted Papers.txt', 'r', encoding='utf-8')
-    get_words(f.readlines())
+    get_words(f.read())
 
 
 
